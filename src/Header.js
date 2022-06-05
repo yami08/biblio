@@ -5,7 +5,7 @@ function Header() {
     <div>
       <Container>
         <HeaderLogo>
-<img src={"./Amazon-Logo-1024x426.png"}></img>
+          <img src={"./Amazon-Logo-1024x426.png"}></img>
         </HeaderLogo>
         <HeaderOptionAdress>
           <OptionLineOne>Hello</OptionLineOne>
