@@ -1,11 +1,12 @@
 import React from 'react'
 import styled from 'styled-components'
+
 function Header() {
   return (
     <div>
       <Container>
         <HeaderLogo>
-          <img src={"./Amazon-Logo-1024x426.png"}></img>
+          <img src={"C:\Users\OMEN\Pictures"}></img>
         </HeaderLogo>
         <HeaderOptionAdress>
           <OptionLineOne>Hello</OptionLineOne>
